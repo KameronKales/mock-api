@@ -10,7 +10,6 @@
   "author": "Kameron",
   "license": "MIT",
   "dependencies": {
-    "@stoplight/prism-cli": "^3.3.6",
-    "pm2": "^4.4.0"
+    "@stoplight/prism-cli": "^3.3.6"
   }
 }
