@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prism-api": "prism mock -p 5000 https://raw.githubusercontent.com/moov-io/api/master/openapi.yaml"
+    "prism-api": "prism mock -p $PORT https://raw.githubusercontent.com/moov-io/api/master/openapi.yaml"
   },
   "author": "Kameron",
   "license": "MIT",
