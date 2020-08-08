@@ -1,1 +1,1 @@
-web: npm run prism-api
+web: npm run prism-api -p $PORT
