@@ -1,1 +1,1 @@
-web: npm run prism-api -p $PORT
+web: prism mock -p $PORT https://raw.githubusercontent.com/moov-io/api/master/openapi.yaml
