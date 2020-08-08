@@ -1,1 +1,1 @@
-web: prism mock -p $PORT https://raw.githubusercontent.com/moov-io/api/master/openapi.yaml
+web: prism mock -h 0.0.0.0 -p $PORT https://raw.githubusercontent.com/moov-io/api/master/openapi.yaml
